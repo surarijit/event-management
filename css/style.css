@@ -438,7 +438,7 @@ ul.dropdown-menu li a:hover {
     margin-top: 1em;
     letter-spacing: 4px;
     text-transform: capitalize;
-    color: #80ff80;
+    color: black;
     font-weight: 500;
 }
 .heading-agileinfo span:after {
@@ -2969,7 +2969,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 		margin-top: 5px;
 	}
 	nav.navbar.navbar-default.navbar-fixed-top {
-		background: #80ff80;
+		background: black;
 		z-index: 9999;
 		border-top:10px solid #ff0a80;
 	}
@@ -3092,7 +3092,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 	}
 nav.navbar.navbar-default.navbar-fixed-top {
     padding: 0.8em 1em;
-    border-top:10px solid #80ff80;
+    border-top:10px solid black;
 }
 } 
 @media(max-width:640px){
